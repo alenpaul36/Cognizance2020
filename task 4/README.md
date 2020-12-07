@@ -15,7 +15,7 @@
 
 * C++ is fun and easy to learn!
 
-  **A simple code in C++:**
+ **A simple code in C++:**
 
  ``` C++
 #include <iostream>
