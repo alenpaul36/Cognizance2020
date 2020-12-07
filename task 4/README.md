@@ -27,6 +27,9 @@ int main()
   return 0;
 }
 ```
+```
+Hello World
+```
 To execute this code run it in a C++ friendly coding platform.
 
 If u wanna learn more on C++:-
