@@ -28,7 +28,7 @@ int main()
 }
 ```
 ```
-Hello World
+Hello World!
 ```
 To execute this code run it in a C++ friendly coding platform.
 
