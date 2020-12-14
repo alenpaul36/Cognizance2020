@@ -16,6 +16,6 @@ END WHILE
 
 IF result==orignum
      Print "Congrats it is a armstrong number."
-Else
+ELSE
      Print "Oops.. It is not a armstrong number."
  
