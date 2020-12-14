@@ -15,7 +15,7 @@ WHILE num>0
 END WHILE
 
 IF result==orignum
-     Print Congrats it is a armstrong number.
+     Print "Congrats it is a armstrong number."
 Else
-     Print Oops.. It is not a armstrong number.
+     Print "Oops.. It is not a armstrong number."
  
