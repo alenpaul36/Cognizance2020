@@ -10,7 +10,7 @@ num=orignum
 
 WHILE num>0
       remainder=n%10
-      result=result+remainder*remainder*remainder
+      result=result+(remainder*remainder*remainder)
       num/10
 END WHILE
 
